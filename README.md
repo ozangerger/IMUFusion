@@ -13,15 +13,15 @@
  The tests are validated against the ground truth data collected from internal 9-dof IMU fusion of SenseHat.
 
 # Test 1 - Pitch and Roll Fusion using 6-dof IMU inside SenseHat of Raspberry PI 4
-![Example](/SenseHat/imu_test_1_pitch.png)
+![Example](/SenseHat/example1/imu_test_1_pitch.png)
 <p align="center">Figure 1: Ground truth vs Estimated Pitch Angle [rad]</p>
 
-![Example](/SenseHat/imu_test_1_roll.png)
+![Example](/SenseHat/example1/imu_test_1_roll.png)
 <p align="center">Figure 2: Ground truth vs Estimated Roll Angle [rad]</p>
 
 # Test 2 - Pitch and Roll Fusion using 6-dof IMU inside SenseHat of Raspberry PI 4
-![Example](/SenseHat/imu_test_1_pitch.png)
+![Example](/SenseHat/example1/imu_test_1_pitch.png)
 <p align="center">Figure 3: Ground truth vs Estimated Pitch Angle [rad]</p>
 
-![Example](/SenseHat/imu_test_1_roll.png)
+![Example](/SenseHat/example1/imu_test_1_roll.png)
 <p align="center">Figure 4: Ground truth vs Estimated Roll Angle [rad]</p>
